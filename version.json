@@ -1,9 +1,6 @@
 {
-  "version": "v1.4.1",
-  "versionCode": 7,
-  "date": "2026-03-13T05:49:28.008Z",
-  "changelog": "Versión segura probada — rollback automático",
-  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-apk-safe/releases/download/v1.4.1/SuggyApp-safe.apk",
-  "is_safe": true,
-  "source_repo": "suggy-apk-releases"
+  "version": "v1.4.2",
+  "safe": true,
+  "date": "2026-03-13T07:14:51.540Z",
+  "apk_url": "https://github.com/actualizarcabel2-prog/suggy-apk-safe/releases/download/v1.4.2-safe/suggy.apk"
 }
